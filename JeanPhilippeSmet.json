@@ -1,0 +1,2228 @@
+{
+    
+    "Id": 1060,
+    "Name": "Johnny Hallyday",
+    "Picture": null,
+    "Albums": [
+        {
+            "Id": 241009562,
+            "Title": "Johnny Acte II",
+            "CoverBig": null,
+            "Tracks": [
+                {
+                    "Id": 1419908942,
+                    "Title": "Ouverture",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419908952,
+                    "Title": "Je te promets",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-83ebfaa9a49bc73e1c0a9798c81f8219-4.mp3"
+                },
+                {
+                    "Id": 1419908962,
+                    "Title": "Le pénitencier",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7913d5672e7eeebdc63f650464d633f6-3.mp3"
+                },
+                {
+                    "Id": 1419908972,
+                    "Title": "J'aimerais pouvoir encore souffrir comme ça",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419908982,
+                    "Title": "À propos de mon père",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419908992,
+                    "Title": "Love Me Tender",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909002,
+                    "Title": "Quelques cris",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909012,
+                    "Title": "Ce que je sais",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909022,
+                    "Title": "Laura",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909032,
+                    "Title": "Mirador",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909042,
+                    "Title": "J'la croise tous les matins",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909052,
+                    "Title": "La musique que j'aime",
+                    "Preview": ""
+                },
+                {
+                    "Id": 1419909062,
+                    "Title": "Ne me quitte pas",
+                    "Preview": ""
+                }
+            ]
+        },
+        {
+            "Id": 204678022,
+            "Title": "Que je t'aime",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/e8eb2f84bfdba65ccd8725763ce89e7e/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 1230327212,
+                    "Title": "Retiens la nuit",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b2febe2edafef2ba2941359530c7d31f-3.mp3"
+                },
+                {
+                    "Id": 1230327222,
+                    "Title": "Tes tendres années",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dba8344f279b19a85bea0bc8489ba67f-3.mp3"
+                },
+                {
+                    "Id": 1230327232,
+                    "Title": "Pour moi tu es la seule",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ebf637b115293d5376529f04ba86a04f-3.mp3"
+                },
+                {
+                    "Id": 1230327242,
+                    "Title": "Quand revient la nuit",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4db49d060ec0981a26d794c41483b299-5.mp3"
+                },
+                {
+                    "Id": 1230327252,
+                    "Title": "Je veux te graver dans ma vie",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-797f6f0e4c8fe9bb2f9df68d6d026770-4.mp3"
+                },
+                {
+                    "Id": 1230327262,
+                    "Title": "Que je t'aime",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5f707102bcd19ed64e546692a388d9f9-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 190794112,
+            "Title": "Bercy 2003 (Live)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/698e5a68c647284ac35c27ee2acce756/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 1164959962,
+                    "Title": "Intro (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0be5b311ae0c0be6a75987d861b5889e-3.mp3"
+                },
+                {
+                    "Id": 1164959992,
+                    "Title": "Que je t'aime (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-eb82b21d7ee4d80f118eef8c925a6bd1-4.mp3"
+                },
+                {
+                    "Id": 1164960022,
+                    "Title": "Fils de personne (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4c35bfe333566c290dbe289f500524b3-5.mp3"
+                },
+                {
+                    "Id": 1164960032,
+                    "Title": "Gabrielle (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-ff46b058df1d6898eb02b9046672d19b-4.mp3"
+                },
+                {
+                    "Id": 1164960042,
+                    "Title": "Quelque chose de Tennessee (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-56b52285c000794db3ab325399b37cee-4.mp3"
+                },
+                {
+                    "Id": 1164960052,
+                    "Title": "Oh Carole (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-54ef89c7ce950213d13d1c332c24f11d-4.mp3"
+                },
+                {
+                    "Id": 1164960062,
+                    "Title": "Je n'ai jamais pleuré (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-00b1a33ca140a089953a45a0ae99ad59-5.mp3"
+                },
+                {
+                    "Id": 1164960072,
+                    "Title": "Le cœur en deux (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4ce65390e10441a75a1a82d3431a6641-5.mp3"
+                },
+                {
+                    "Id": 1164960082,
+                    "Title": "L'instinct (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d6ee60ffe01dd8508adbb3e671f54c02-5.mp3"
+                },
+                {
+                    "Id": 1164960092,
+                    "Title": "Qu'est-ce que tu croyais (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cc33fce77c91eaf4c987d0503cff1e31-5.mp3"
+                },
+                {
+                    "Id": 1164960102,
+                    "Title": "Marie (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b93afea246b264e83733505bc42e3794-5.mp3"
+                },
+                {
+                    "Id": 1164960112,
+                    "Title": "Je suis né dans la rue (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-93e74661fab564d4ca6239092d7cbedd-4.mp3"
+                },
+                {
+                    "Id": 1164960122,
+                    "Title": "Allumer le feu (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f22107887c010b55856cdb4fed03dc57-5.mp3"
+                },
+                {
+                    "Id": 1164960132,
+                    "Title": "Je veux te graver dans ma vie (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-39e4c680e9719aec8f89b1e95e03bea1-3.mp3"
+                },
+                {
+                    "Id": 1164960142,
+                    "Title": "Aussi dur que du bois (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5471b1b80d90c8f492090f7c3a279a15-3.mp3"
+                },
+                {
+                    "Id": 1164960152,
+                    "Title": "Jusqu’à minuit (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9efd7df142e933a4f8a4fb24aa3a128a-4.mp3"
+                },
+                {
+                    "Id": 1164960162,
+                    "Title": "Je suis seul (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dc918484431e6b65a66bb89e90d147b7-3.mp3"
+                },
+                {
+                    "Id": 1164960172,
+                    "Title": "Diego, libre dans sa tête (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a810e1e6c3a6ad38ef3a884be193d921-4.mp3"
+                },
+                {
+                    "Id": 1164960192,
+                    "Title": "Dis-le moi (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cc1b898f4c35b36053097796d14bd7d8-5.mp3"
+                },
+                {
+                    "Id": 1164960202,
+                    "Title": "Le pénitencier (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-415ea9a5cf395d1716198a9c9d5aba2c-5.mp3"
+                },
+                {
+                    "Id": 1164960212,
+                    "Title": "L'envie (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e5bb97fbe03fe266639c8f1bbc729ffc-3.mp3"
+                },
+                {
+                    "Id": 1164960222,
+                    "Title": "Essayez (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0da80ce184573468aa129d684e067e3b-4.mp3"
+                },
+                {
+                    "Id": 1164960232,
+                    "Title": "La musique que j'aime (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3dcced5bcfd4dcef144d38001d99cc5d-4.mp3"
+                },
+                {
+                    "Id": 1164960242,
+                    "Title": "M'arrêter là (Live à Bercy / 2003)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9ff68a929c5b5879410a56f4da3d8883-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 180704092,
+            "Title": "Son rêve américain",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/f4358ee5c504e435368a7d40537395f1/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 1114777392,
+                    "Title": "Je suis né dans la rue (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c4a3f48f29b9914a18626133959a8c24-3.mp3"
+                },
+                {
+                    "Id": 1114777402,
+                    "Title": "Nashville Blues (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d29a9d4d55071928a34d5bf646f4dfb0-3.mp3"
+                },
+                {
+                    "Id": 1114777412,
+                    "Title": "La terre promise (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a326370779d23cc355fecca71f119e15-3.mp3"
+                },
+                {
+                    "Id": 1114777422,
+                    "Title": "Le pénitencier (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-deb014b8d777d34294459f026e4b42fa-3.mp3"
+                },
+                {
+                    "Id": 1114777432,
+                    "Title": "Diego (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3ced2a295c4955f3266c6477373d20d1-3.mp3"
+                },
+                {
+                    "Id": 1114777442,
+                    "Title": "Quelque chose de Tennessee (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-332adbbc0c054dbb137870c733d07747-3.mp3"
+                },
+                {
+                    "Id": 1114777452,
+                    "Title": "Gabrielle (feat. Greg Zlap) (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab9c567fd7267be621f4c6e30fa8f236-3.mp3"
+                },
+                {
+                    "Id": 1114777462,
+                    "Title": "L’idole des jeunes (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d9d34a6fbdc69797662d730ef926115a-2.mp3"
+                },
+                {
+                    "Id": 1114777472,
+                    "Title": "Joue pas de Rock'n'Roll (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d8ce5a305b20d35ebbcf5c28c6d90c29-3.mp3"
+                },
+                {
+                    "Id": 1114777482,
+                    "Title": "I’m Gonna Sit Right Down And Cry (Over You) (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-66731cba580091ab3fa7c634ff35263a-3.mp3"
+                },
+                {
+                    "Id": 1114777492,
+                    "Title": "Tes tendres années (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-52696be73c289b226bc28f9a19c7c40c-3.mp3"
+                },
+                {
+                    "Id": 1114777502,
+                    "Title": "Que je t’aime (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7aa3c4b92e0f9aab2307edf5d2966b24-2.mp3"
+                },
+                {
+                    "Id": 1114777512,
+                    "Title": "Hey Joe (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e779fec2b4e39391a980f0bdec58ad8f-2.mp3"
+                },
+                {
+                    "Id": 1114777522,
+                    "Title": "Voyage au pays des vivants (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f6d5261178fcd1ea102836440d7561b9-2.mp3"
+                },
+                {
+                    "Id": 1114777532,
+                    "Title": "20 ans (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7f71e8ce42f700723d589bf3065eef89-3.mp3"
+                },
+                {
+                    "Id": 1114777542,
+                    "Title": "Fils de personne (feat. Yarol Poupaud) (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9911f18a8abbb266a4fca3eec9d572ba-2.mp3"
+                },
+                {
+                    "Id": 1114777552,
+                    "Title": "L’envie (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e4d5dccb5f5f544d1810d3f2b2230607-2.mp3"
+                },
+                {
+                    "Id": 1114777562,
+                    "Title": "L’amour à mort (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-80909c8813a2a22d5f705757ff9b14c4-2.mp3"
+                },
+                {
+                    "Id": 1114777572,
+                    "Title": "Dead or Alive (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a5e231e159b3ace3037d4d76b2f4c1be-2.mp3"
+                },
+                {
+                    "Id": 1114777582,
+                    "Title": "La musique que j’aime (en duo avec Jean Reno) (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-45aa8443a3ab05af782e344b56ce9225-2.mp3"
+                },
+                {
+                    "Id": 1114777592,
+                    "Title": "L’attente (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b89cfc63d4cd2606a4e329d656200604-2.mp3"
+                },
+                {
+                    "Id": 1114777602,
+                    "Title": "Made in Rock'n'Roll (Voix seule)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3400b1e4a69c81aa40391dee74ad522f-3.mp3"
+                },
+                {
+                    "Id": 1114777612,
+                    "Title": "Rester vivant",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f7024a6ee661ae6f6831dda2d5bad811-3.mp3"
+                },
+                {
+                    "Id": 1114777622,
+                    "Title": "A nos promesses",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-951ecd712457646709adf3276b98cd69-2.mp3"
+                },
+                {
+                    "Id": 1114777632,
+                    "Title": "Mon pays, c'est l'amour",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a58b0ce18593fd4c3ba29a63732ac02c-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 177826402,
+            "Title": "Deux sortes d'hommes",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/5bedd6a9ea42699c803fdd60859a19e0/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 1100563272,
+                    "Title": "Deux sortes d'hommes",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-28734de17f355c6e9ee3ff80812af8a8-3.mp3"
+                },
+                {
+                    "Id": 1100563282,
+                    "Title": "Nashville Blues (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d29a9d4d55071928a34d5bf646f4dfb0-3.mp3"
+                },
+                {
+                    "Id": 1100563292,
+                    "Title": "La terre promise (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a326370779d23cc355fecca71f119e15-3.mp3"
+                },
+                {
+                    "Id": 1100563302,
+                    "Title": "Tes tendres années (Live au Beacon Theatre de New-York 2014)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-52696be73c289b226bc28f9a19c7c40c-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 153153082,
+            "Title": "Happy Birthday Live (Live)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/116bd8dfff90e14e94b42d38525ab010/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 984765402,
+                    "Title": "Ouverture (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9034834569cc0a39af17ad9905c2bbd3-3.mp3"
+                },
+                {
+                    "Id": 984765412,
+                    "Title": "Allumer le feu (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6739fe4ab07d59e885250da292b68a5e-4.mp3"
+                },
+                {
+                    "Id": 984765422,
+                    "Title": "Je suis né dans la rue (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1b57bd3f287a4a47c06ddb730f583baf-4.mp3"
+                },
+                {
+                    "Id": 984765432,
+                    "Title": "Je veux te graver dans ma vie (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6bd32e5e300ad067fe0b94163a24b016-3.mp3"
+                },
+                {
+                    "Id": 984765452,
+                    "Title": "Le pénitencier (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2778dcdcf84c4741a1c1fb18b181c193-4.mp3"
+                },
+                {
+                    "Id": 984765462,
+                    "Title": "Quelque chose de Tennessee (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-ffa29a60d6ca7b3c489c09fe28c38a91-4.mp3"
+                },
+                {
+                    "Id": 984765472,
+                    "Title": "Sang pour sang (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-88864c251fa481a2c71a31d035490be1-4.mp3"
+                },
+                {
+                    "Id": 984765482,
+                    "Title": "Noir c’est noir (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e1030fb565af9fd967159832ce3523c7-3.mp3"
+                },
+                {
+                    "Id": 984765492,
+                    "Title": "Jusqu’à minuit (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3e7911e303cbe6e0cc11352791878e5d-3.mp3"
+                },
+                {
+                    "Id": 984765502,
+                    "Title": "Si j’étais un Charpentier (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cd1f7b9fa903fff4955e9def17dbefab-3.mp3"
+                },
+                {
+                    "Id": 984765512,
+                    "Title": "Joue pas de rock’n’roll pour moi (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-39300460f9dfc7d4d57f7bfee669c581-4.mp3"
+                },
+                {
+                    "Id": 984765522,
+                    "Title": "Deux étrangers (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e438a8790cfeeeb9fe3d6c06efc34fa6-4.mp3"
+                },
+                {
+                    "Id": 984765532,
+                    "Title": "Ma gueule (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-53d0db65611b47ea020fa46fa3877b4f-4.mp3"
+                },
+                {
+                    "Id": 984765542,
+                    "Title": "Le feu (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-05dbaf36717c76744d8eaaba0ee2d547-4.mp3"
+                },
+                {
+                    "Id": 984765552,
+                    "Title": "Medley instrumental (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8cce56ecbb4aabb5920ea444862d1b99-4.mp3"
+                },
+                {
+                    "Id": 984765562,
+                    "Title": "Que je t’aime (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c543843f3b6419a35b402bd9d077b337-3.mp3"
+                },
+                {
+                    "Id": 984765572,
+                    "Title": "Fils de personne (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-56e9508fbea50cf357e79328c6e90c42-5.mp3"
+                },
+                {
+                    "Id": 984765582,
+                    "Title": "Le bon temps du rock'n'roll (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9dbb84d7990318824c6d6c8e37441f6f-5.mp3"
+                },
+                {
+                    "Id": 984765592,
+                    "Title": "Le chanteur abandonné (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-365ae527c2783d36c73439f591eba73e-4.mp3"
+                },
+                {
+                    "Id": 984765602,
+                    "Title": "Gabrielle (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5c0e8712848a8a1f65526fd7568511d1-3.mp3"
+                },
+                {
+                    "Id": 984765612,
+                    "Title": "Derrière l’amour (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cc96df5a30c72baa4cf8165f16936e67-4.mp3"
+                },
+                {
+                    "Id": 984765622,
+                    "Title": "Qu'est-ce que tu croyais (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b4c09a0014f02355ab1f1fc5938223c5-3.mp3"
+                },
+                {
+                    "Id": 984765642,
+                    "Title": "La musique que j’aime (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7e5afc546d95f74cf4c322d28888c7e8-3.mp3"
+                },
+                {
+                    "Id": 984765652,
+                    "Title": "L’envie (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-911719180085d271e20a77c35135c121-3.mp3"
+                },
+                {
+                    "Id": 984765662,
+                    "Title": "Aimer vivre (Live au Parc de Sceaux / 15 juin 2000)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9fca2e8efe3dae61f10d2ab8ca09c1fe-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 150700092,
+            "Title": "Live Port Barcarès (Live)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/f5cd4a9bb55e52422fc73911ff197a8e/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 971403822,
+                    "Title": "À tout casser (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b536f9ffbf12c4ecbb2a51d3479f1817-3.mp3"
+                },
+                {
+                    "Id": 971403832,
+                    "Title": "Cours plus vite Charlie (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-33412756173f034598e883f58b2012e2-3.mp3"
+                },
+                {
+                    "Id": 971403842,
+                    "Title": "Fumée (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a10c905148a36d90033e2bb89b47d3fc-3.mp3"
+                },
+                {
+                    "Id": 971403852,
+                    "Title": "Entre mes mains (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-092c0590bbea1ff7636a631de38c8fb8-3.mp3"
+                },
+                {
+                    "Id": 971403862,
+                    "Title": "Jeune homme (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7b6e8dc81004615e5a629511c5fc462d-3.mp3"
+                },
+                {
+                    "Id": 971403872,
+                    "Title": "Regarde pour moi (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5a6bae9b88c05d56b78d91b849efc3a6-3.mp3"
+                },
+                {
+                    "Id": 971403882,
+                    "Title": "Voyage au pays des vivants (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0eca3834be16e427b8625f552e69d14f-3.mp3"
+                },
+                {
+                    "Id": 971403892,
+                    "Title": "Que je t'aime (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ea798522819b7865d8762f866998a482-3.mp3"
+                },
+                {
+                    "Id": 971403902,
+                    "Title": "Rivière... Ouvre ton lit (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-52adcfa1c314ec2f684e0c5412e8b5f2-3.mp3"
+                },
+                {
+                    "Id": 971403912,
+                    "Title": "Mal (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f5864888203d063a459a1314be1c0e4a-3.mp3"
+                },
+                {
+                    "Id": 971403922,
+                    "Title": "Je n'ai pas voulu croire (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-31a4add98e31a2d394e05fa20beb43ce-3.mp3"
+                },
+                {
+                    "Id": 971403932,
+                    "Title": "Je te veux (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9aaa4d0ec0617646af242e1a0d8aafaf-3.mp3"
+                },
+                {
+                    "Id": 971403942,
+                    "Title": "Je suis né dans la rue (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-58107ad6d8682e9e44c90e23c051e230-3.mp3"
+                },
+                {
+                    "Id": 971403952,
+                    "Title": "Medley Rock’n’roll & Je suis né dans la rue (Reprise) (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7f69e428b107296b88f7c2eac699845a-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 150702162,
+            "Title": "Palais des Sports 1969 (Live)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/3626847a61c66e32f92dbc031c747249/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 971411952,
+                    "Title": "À tout casser (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-038bb26ac5a3e5ecba868bfe58925ec5-4.mp3"
+                },
+                {
+                    "Id": 971411962,
+                    "Title": "Cours plus vite Charlie (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-81c92e1cb24388f17b56fbf305094466-4.mp3"
+                },
+                {
+                    "Id": 971411972,
+                    "Title": "Fumée (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4477e8b53b5edf8b3d1734a4bf675428-4.mp3"
+                },
+                {
+                    "Id": 971411982,
+                    "Title": "Entre mes mains (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-ac4c2d416241ae642fa23cf0f5bec970-4.mp3"
+                },
+                {
+                    "Id": 971411992,
+                    "Title": "Jeune homme (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1e588296cfb43c25f72f08511a7478de-4.mp3"
+                },
+                {
+                    "Id": 971412012,
+                    "Title": "Regarde pour moi (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8b98a99f342013ae429e1128886f11d2-4.mp3"
+                },
+                {
+                    "Id": 971412022,
+                    "Title": "Voyage au pays des vivants (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1f052be949d1fdd685e25ea7dcc078cc-4.mp3"
+                },
+                {
+                    "Id": 971412032,
+                    "Title": "Que je t'aime (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-ae77edff3fa7a7c31874819bc75edb54-4.mp3"
+                },
+                {
+                    "Id": 971412042,
+                    "Title": "Rivière... Ouvre ton lit (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-857264c1b43776da14576803828faffb-4.mp3"
+                },
+                {
+                    "Id": 971412052,
+                    "Title": "Mal (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-24c2490a3103ed981ba48e5206a6a398-4.mp3"
+                },
+                {
+                    "Id": 971412062,
+                    "Title": "Je n'ai pas voulu croire (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-42665c864b21e34b4466fd7888af28d5-4.mp3"
+                },
+                {
+                    "Id": 971412072,
+                    "Title": "Caché derrière mes poings (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6671e6afc2e89e42fb7cc92ef2857a9d-4.mp3"
+                },
+                {
+                    "Id": 971412082,
+                    "Title": "Je te veux (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c0e9e6725786ee0dc323137b5a9443de-4.mp3"
+                },
+                {
+                    "Id": 971412092,
+                    "Title": "Je suis né dans la rue (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e3c0beaebecff826b9da11256a04c850-4.mp3"
+                },
+                {
+                    "Id": 971412102,
+                    "Title": "Medley Rock'n'roll + Je suis né dans la rue (reprise) (Live au Palais des Sports / 26 avril 1969)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6ec9a34a09d4aab69ff12f82faa61a78-4.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 144484832,
+            "Title": "Best Of 1990 - 2005",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/5c245c609f2ea0b54a82133c93624dc2/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 942206372,
+                    "Title": "Ça ne change pas un homme",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4d7edb6fc6603ddd6c575ece1a510ab2-8.mp3"
+                },
+                {
+                    "Id": 942206382,
+                    "Title": "J'la croise tous les matins",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-98a794649b058a5754408518cb0fbd3d-8.mp3"
+                },
+                {
+                    "Id": 942206392,
+                    "Title": "Ne m'oublie pas",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-da0acb2e7383304c2d3fe0e77680dd13-8.mp3"
+                },
+                {
+                    "Id": 942206402,
+                    "Title": "Allumer le feu",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-778c4f1d5336d52bf9c03bfb2086638e-7.mp3"
+                },
+                {
+                    "Id": 942206412,
+                    "Title": "Sang pour sang",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef49857da60ef5c16e47536e46f2dff2-8.mp3"
+                },
+                {
+                    "Id": 942206422,
+                    "Title": "Un jour viendra",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d5b5255e65a7690296f11701189dbad6-9.mp3"
+                },
+                {
+                    "Id": 942206432,
+                    "Title": "Vivre pour le meilleur",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b7ac6faf0a279c3df006c81f5b7f0f73-9.mp3"
+                },
+                {
+                    "Id": 942206442,
+                    "Title": "Marie",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2be43c4762d135af9705e01929af9311-8.mp3"
+                },
+                {
+                    "Id": 942206452,
+                    "Title": "Ma religion dans son regard",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8f215a54920f955c7cc33ca3e9656384-8.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 138798452,
+            "Title": "Je suis né dans la rue",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/43dda7785a7e9eea99beb6cfac4495d0/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 916241212,
+                    "Title": "Je suis né dans la rue (Prise complète / Mix 2020)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-58d7eb32086f966b8ad70dceae878eeb-5.mp3"
+                },
+                {
+                    "Id": 916241222,
+                    "Title": "Je suis né dans la rue & Medley Rock’n’roll (Répétitions) (Emission Europe 1 Midi du 22 avril 1969)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7d1343321765e04d8e16ce8109b29c83-5.mp3"
+                },
+                {
+                    "Id": 916241252,
+                    "Title": "Je suis né dans la rue (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-486d664396ee8bff7da3ca471622c629-5.mp3"
+                },
+                {
+                    "Id": 916241262,
+                    "Title": "Medley Rock’n’roll & Je suis né dans la rue (Reprise) (Live à Port Barcarès / 9 août 1969)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-387eb233a6766b9a0d46a50b528b2446-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 121156952,
+            "Title": "Un soir à l'Olympia",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/5a795635a4032c4e940e0298ff7668e8/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 822648082,
+                    "Title": "Je suis né dans la rue (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ea53b2f31e1409676ef05eb5befadb77-5.mp3"
+                },
+                {
+                    "Id": 822648122,
+                    "Title": "Fils de personne (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6bca7b78ac317bd927ce8caf19fb1939-5.mp3"
+                },
+                {
+                    "Id": 822648142,
+                    "Title": "Si j'étais un charpentier (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9c8ed8cda50cf4244a588e0fa39337bc-7.mp3"
+                },
+                {
+                    "Id": 822648152,
+                    "Title": "Quand je l'ai vue devant moi (Live à l'Olympia, Paris / Matinée du 9 février 1964)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-59c3e5742bad098d80df78067b6c7b0e-6.mp3"
+                },
+                {
+                    "Id": 822648162,
+                    "Title": "Elle est terrible (Live à l'Olympia / Soirée du 27 octobre 1962)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-bb8df3d5e16e6e96e45f1431623a0e26-6.mp3"
+                },
+                {
+                    "Id": 822648172,
+                    "Title": "Let's Twist Again (Live à l'Olympia / Soirée du 27 octobre 1962)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8c4a1fb2d18b7229aeca54ce64c5463b-5.mp3"
+                },
+                {
+                    "Id": 822648182,
+                    "Title": "Rien que huit jours (Live à l'Olympia, Paris / Soirée du 7 février 1964)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b7979efdced45e18f3052d324d58dc09-5.mp3"
+                },
+                {
+                    "Id": 822648192,
+                    "Title": "Toi qui t'en vas (Live à l'Olympia, Paris / 25 novembre 1965)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7dedad7c61ca9b0b2e805dc37eb5b480-5.mp3"
+                },
+                {
+                    "Id": 822648202,
+                    "Title": "Je me suis lavé les mains dans une eau sale (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-201e2ef79061531b522d50421579a937-5.mp3"
+                },
+                {
+                    "Id": 822648212,
+                    "Title": "Diégo, libre dans sa tête (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cb4a647e554485ce466884ec8dd63cc4-6.mp3"
+                },
+                {
+                    "Id": 822648222,
+                    "Title": "Rock'n'roll attitude (Live à l'Olympia, Paris / 25 août 2000)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-55ee641ba0ec81663245ec5b22a2d87e-5.mp3"
+                },
+                {
+                    "Id": 822648232,
+                    "Title": "Je veux te graver dans ma vie (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fc655acbe4da1eba72da6eb7bdca8153-5.mp3"
+                },
+                {
+                    "Id": 822648242,
+                    "Title": "Quand un homme perd ses rêves (Live à l'Olympia, Paris / 18 octobre 1966)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1153eb498cfb0798a0f46d851d9ac752-5.mp3"
+                },
+                {
+                    "Id": 822648252,
+                    "Title": "Quand revient la nuit (Live à l'Olympia, Paris / 25 novembre 1965)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-07e98f51faa4539569a0cfa833be2251-5.mp3"
+                },
+                {
+                    "Id": 822648262,
+                    "Title": "Les monts près du ciel (Live à l'Olympia, Paris / 25 novembre 1965)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6776471c220219f377bccd8c3a4b43d2-5.mp3"
+                },
+                {
+                    "Id": 822648272,
+                    "Title": "I Got A Woman (Live à l'Olympia, Paris / Soirée du 8 février 1964)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-59114fad0ed96e0fff5ef2c3b89703bc-5.mp3"
+                },
+                {
+                    "Id": 822648282,
+                    "Title": "Shout (Live à l'Olympia, Paris / Soirée du 8 février 1964)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f6f5d5082734bd3c3d8a61fb33eca12d-5.mp3"
+                },
+                {
+                    "Id": 822648292,
+                    "Title": "À propos de mon père (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-68e4132eeb8b8cca471167e22c07e7f1-5.mp3"
+                },
+                {
+                    "Id": 822648302,
+                    "Title": "La musique que j'aime (Live à l'Olympia, Paris / 25 août 2000)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-bf1864bc291789815ae0634b830ec7aa-5.mp3"
+                },
+                {
+                    "Id": 822648312,
+                    "Title": "Je te promets (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-413568a9ae570693dcdbc38b9486664f-5.mp3"
+                },
+                {
+                    "Id": 822648322,
+                    "Title": "Le bon temps du rock'n'roll (Live à l'Olympia, Paris / 25 août 2000)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8e6cd6ccdda4cc66425b47f5763113af-5.mp3"
+                },
+                {
+                    "Id": 822648332,
+                    "Title": "Les coups (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4c7b2d1d25f28bd2ab5330107c81de65-5.mp3"
+                },
+                {
+                    "Id": 822648342,
+                    "Title": "La génération perdue (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c2c0b613cf01a44af08e4a89f9fa9559-5.mp3"
+                },
+                {
+                    "Id": 822648352,
+                    "Title": "Excuse-moi partenaire (Live à l'Olympia, Paris / Soirée du 9 février 1964)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-ce141ac34323390f9705c2c354672935-5.mp3"
+                },
+                {
+                    "Id": 822648362,
+                    "Title": "L'idole des jeunes (Live à l'Olympia / Soirée du 27 octobre 1962)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a05742bacd9bef7e7bae5892db525c17-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 116380532,
+            "Title": "Les Vieilles Canailles : Le Live",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/935e6271655511ed2eda97a9c6f2ce38/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 785820742,
+                    "Title": "C'est pourtant vrai (Intro) (Live)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1b181d7a73159480761e9edeeb3193e8-5.mp3"
+                },
+                {
+                    "Id": 785820752,
+                    "Title": "Les playboys (Live)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-314aa2b28ec0e87502cedf9438401359-5.mp3"
+                },
+                {
+                    "Id": 785820762,
+                    "Title": "Noir c'est noir (Live)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-66b222449bb349763668e386f9899586-5.mp3"
+                },
+                {
+                    "Id": 785820772,
+                    "Title": "C'est un rocker (Live)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-deb7b175518889c6dfcde7d6e1570497-5.mp3"
+                },
+                {
+                    "Id": 785820782,
+                    "Title": "Les cactus (Live)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-40f101fb4bf83f48eb3618fe8d25eb16-5.mp3"
+                },
+                {
+                    "Id": 785820792,
+                    "Title": "L'opportuniste (Live)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0494c5ef1258bb339bbcd3f6082c76c6-5.mp3"
+                },
+                {
+                    "Id": 785820802,
+                    "Title": "La fille du Père Noël (Live)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-118502f0c10990d522c10559e43df7cd-5.mp3"
+                },
+                {
+                    "Id": 785820812,
+                    "Title": "Quelque chose de Tennessee (Live)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d281b57369f2e6fbcca16f5d7ef8aaef-6.mp3"
+                },
+                {
+                    "Id": 785820822,
+                    "Title": "J'aime les filles (Live)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b335377674212838766736490ebdc5ac-5.mp3"
+                },
+                {
+                    "Id": 785820832,
+                    "Title": "Le cimetière des éléphants (Live)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-945bd79c66e2149432b57d2e211e1fec-5.mp3"
+                },
+                {
+                    "Id": 785820842,
+                    "Title": "Lèche-bottes blues (Live)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-149d4a17d4c424676b2be16f748a7bd9-5.mp3"
+                },
+                {
+                    "Id": 785820852,
+                    "Title": "Excuse-moi partenaire (Live)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e02cc36c72e755a75d8dc9f67cdc03e3-5.mp3"
+                },
+                {
+                    "Id": 785820862,
+                    "Title": "Joue pas de Rock'n'Roll pour moi (Live)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d4d8cb59565a2ea6dced50919013cd32-5.mp3"
+                },
+                {
+                    "Id": 785820872,
+                    "Title": "Be Bop a Lula (Live)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d9ac93abdcf9b94da0b62e72a5d919e1-5.mp3"
+                },
+                {
+                    "Id": 785820882,
+                    "Title": "Il est cinq heures Paris s'éveille (Live)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-60f9ea3a50ef9db2cb4d441afff908f1-5.mp3"
+                },
+                {
+                    "Id": 785820892,
+                    "Title": "Couleur menthe à l'eau (Live)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f1209593af5591007e7b6a1e525db448-6.mp3"
+                },
+                {
+                    "Id": 785820902,
+                    "Title": "Gabrielle (Live)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a306e0bfcce885716541109a9d7f5611-5.mp3"
+                },
+                {
+                    "Id": 785820912,
+                    "Title": "Le pénitencier (Live)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-86e87e4294f1dfefaee1db7e50147ead-5.mp3"
+                },
+                {
+                    "Id": 785820922,
+                    "Title": "On veut des légendes (Live)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-900979c007911d0e38fbdcd470501ecb-5.mp3"
+                },
+                {
+                    "Id": 785820932,
+                    "Title": "Vieille canaille (Live)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-30f7dfbcfc51ecd2ebfe5d7903d45f75-5.mp3"
+                },
+                {
+                    "Id": 785820942,
+                    "Title": "Et moi et moi et moi (Live)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fa1c54de66fb79cf06ffabcfc16e1dbe-5.mp3"
+                },
+                {
+                    "Id": 785820952,
+                    "Title": "Pas de Boogie Woogie (Live)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a45fe7572d91055781cd5fcfc887cadf-5.mp3"
+                },
+                {
+                    "Id": 785820962,
+                    "Title": "C'est pourtant vrai (Outro) (Live)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d00b78e868ea6292b6e598ddb5f5c14a-5.mp3"
+                },
+                {
+                    "Id": 785820972,
+                    "Title": "Toute la musique que j'aime (Live)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b1aa7cd4d92bc2168e0b4ba2c79ea158-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 109532772,
+            "Title": "Que je t'aime (50ème anniversaire)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/8afc6896d884168fdf4babcce3d75ffd/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 743761362,
+                    "Title": "Que je t'aime (Version stéréo inédite)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-679d0ad2a796e53abc4e53a181ba4f90-4.mp3"
+                },
+                {
+                    "Id": 743761372,
+                    "Title": "Que je t'aime (Version stéréo alternative)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2a150d16b688ba659133d297735e8060-3.mp3"
+                },
+                {
+                    "Id": 743761382,
+                    "Title": "Que je t'aime (22 avril 1969 Europe 1 Midi)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-993245eae45047f621f8a57ca1799c06-3.mp3"
+                },
+                {
+                    "Id": 743761392,
+                    "Title": "Que je t'aime (Version mono originale)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9ff1a22310ff267a5dc88337cbe9ef33-5.mp3"
+                },
+                {
+                    "Id": 743761402,
+                    "Title": "Quanto Ti Amo",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-540686c71b5de0625a96b7d02a163960-3.mp3"
+                },
+                {
+                    "Id": 743761412,
+                    "Title": "Que je t'aime (Version japonaise)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5b37a0e651c7bc8c7fc029bf28c05aea-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 91697932,
+            "Title": "Johnny 67 + Singles 67",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/6797141512c8d455af92b34db9d4eb84/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 655808792,
+                    "Title": "Amour d'été",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7a109f5f6edce699c008d4b47d0a5524-4.mp3"
+                },
+                {
+                    "Id": 655808802,
+                    "Title": "J'ai crié à la nuit",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2d13a8e6cce3de706b685e9e66617a45-3.mp3"
+                },
+                {
+                    "Id": 655808812,
+                    "Title": "C'est mon imagination",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-971698607998f12762da5a979d3f223f-4.mp3"
+                },
+                {
+                    "Id": 655808822,
+                    "Title": "Je m'accroche à mon rêve",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab543e3165d8188876214386317e8a82-4.mp3"
+                },
+                {
+                    "Id": 655808832,
+                    "Title": "Je n'ai jamais rien demandé",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7b4b926f0d0c8d774ffc458367c008d9-3.mp3"
+                },
+                {
+                    "Id": 655808842,
+                    "Title": "Lettre de fans (Prise complète)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-067dbe16d42df8ecc519ce00a0203e8f-3.mp3"
+                },
+                {
+                    "Id": 655808852,
+                    "Title": "Aussi dur que du bois",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-783760e9553dd81240a085dd3c3c6eed-4.mp3"
+                },
+                {
+                    "Id": 655808862,
+                    "Title": "Pourquoi as-tu peur de la vie ?",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6b07afb28fb384da2df5f8241cfa5b17-3.mp3"
+                },
+                {
+                    "Id": 655808872,
+                    "Title": "La seule vraie musique",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9cedea5ad0f224393988f3e29dd9680e-3.mp3"
+                },
+                {
+                    "Id": 655808882,
+                    "Title": "La petite fille de l'hiver",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e4a63fd1e52a335947ba7adfc0ecc424-4.mp3"
+                },
+                {
+                    "Id": 655808892,
+                    "Title": "Son amour pour un jeu",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-67abbb4cd63c8d7029da6ab4e3dc8150-3.mp3"
+                },
+                {
+                    "Id": 655808902,
+                    "Title": "Petite fille",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-94ec12ed60b7ef97cf875b3b7896a5eb-4.mp3"
+                },
+                {
+                    "Id": 655808912,
+                    "Title": "Hey Joe",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fdb97ed1531b5862815600a364a0d51d-4.mp3"
+                },
+                {
+                    "Id": 655808922,
+                    "Title": "Je crois qu'il me rend fou",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a2b5f9e1c1bb3c87dfcfacbebbaac511-3.mp3"
+                },
+                {
+                    "Id": 655808932,
+                    "Title": "Je suis seul",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-12a677bc7ffa3e7e50980e710552a5c5-4.mp3"
+                },
+                {
+                    "Id": 655808942,
+                    "Title": "San Francisco",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c6b826f91875eb27d015fba4bd64488a-4.mp3"
+                },
+                {
+                    "Id": 655808952,
+                    "Title": "Fleurs d'amour et d'amitié",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0869c1e82a7646962dee923ee259fdb6-3.mp3"
+                },
+                {
+                    "Id": 655808962,
+                    "Title": "Mon fils (Prise complète)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d30f043a9aef8b72e546f74c8730a84c-4.mp3"
+                },
+                {
+                    "Id": 655808972,
+                    "Title": "Psychedelic",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dfecb4e8c74dfb0dff15cca90607666a-3.mp3"
+                },
+                {
+                    "Id": 655808982,
+                    "Title": "Les chevaliers du ciel (Bande originale du feuilleton télévisé \"Les chevaliers du ciel\")",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-eff4312c1c6d7d03541d8406ec8311b7-4.mp3"
+                },
+                {
+                    "Id": 655808992,
+                    "Title": "Les chevaliers du ciel (Générique TV)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0d4b26b84770e9e05b32cd103a4cfe66-3.mp3"
+                },
+                {
+                    "Id": 655809002,
+                    "Title": "Les chevaliers du ciel (Instrumental / Bande originale du feuilleton télévisé \"Les chevaliers du ciel\")",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c8cfe6ccbf91c3dfb12878bcb52f9dd9-3.mp3"
+                },
+                {
+                    "Id": 655809012,
+                    "Title": "Jazz dans les nuages (Instrumental / Bande originale du feuilleton télévisé \"Les chevaliers du ciel\")",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6698b560caf944fccf1953a1ade5917d-3.mp3"
+                },
+                {
+                    "Id": 655809022,
+                    "Title": "Jet-Jerk (Instrumental / Bande originale du feuilleton télévisé \"Les chevaliers du ciel\")",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-864f99a1885ed232fa66b66880156fdc-3.mp3"
+                },
+                {
+                    "Id": 655809032,
+                    "Title": "Amour, violons et réacteurs (Instrumental / Bande originale du feuilleton télévisé \"Les chevaliers du ciel\")",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-62ad501ace07de6907008ac3ba5964a8-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 87720992,
+            "Title": "Hey Joe",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/866ad7eb2b394b70b60caf1da4c1aa53/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 634467402,
+                    "Title": "Hey Joe",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-671ca2be876012529613d27bff67c064-4.mp3"
+                },
+                {
+                    "Id": 634467412,
+                    "Title": "J'ai crié à la nuit",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5e7238abb3fdf51686a79ae0fa96c8fe-3.mp3"
+                },
+                {
+                    "Id": 634467422,
+                    "Title": "Lettre de fans (Prise complète)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-408785f2f55befc1ae8daf0ba9423cae-3.mp3"
+                },
+                {
+                    "Id": 634467432,
+                    "Title": "Mon fils (Prise complète)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7b24bf893391ad5c5c7b300c60131681-3.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 91585762,
+            "Title": "Olympia 67",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/35904697505bb4419e22c9045f01fa80/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 654979962,
+                    "Title": "Les coups (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9d8666d3b7714125276817f29180c629-5.mp3"
+                },
+                {
+                    "Id": 654979972,
+                    "Title": "Maintenant ou jamais (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b35e7dac02e7497a99a5e44f4621dd64-5.mp3"
+                },
+                {
+                    "Id": 654979982,
+                    "Title": "La génération perdue (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a85ba3cdcb86081795fcda272afba0b9-5.mp3"
+                },
+                {
+                    "Id": 654979992,
+                    "Title": "Si j'étais un charpentier (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d75dbf43cdcb8462ac75f5d312482c9a-5.mp3"
+                },
+                {
+                    "Id": 654980002,
+                    "Title": "Je me suis lavé les mains dans une eau sale (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9732a1821effcc99b64e2e2705743f28-5.mp3"
+                },
+                {
+                    "Id": 654980012,
+                    "Title": "La petite fille de l'hiver (Live à l'Olympia / dimanche en matinée 19 mars 1967)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-63b7066283d1d78e9de29d1cd129b624-5.mp3"
+                },
+                {
+                    "Id": 654980022,
+                    "Title": "Je veux te graver dans ma vie (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-607d8e2a1c666872343f0daa58e7574b-5.mp3"
+                },
+                {
+                    "Id": 654980032,
+                    "Title": "Présentation des musiciens (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2e5274bd3abc93d3da346b4bcde36e21-5.mp3"
+                },
+                {
+                    "Id": 654980042,
+                    "Title": "Cheveux longs, idées courtes (Live à l'Olympia / dimanche en matinée 19 mars 1967)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-108d0cc79ee0fccce917892761a5bb60-5.mp3"
+                },
+                {
+                    "Id": 654980052,
+                    "Title": "Le pénitencier (Live à l'Olympia / dimanche en matinée 19 mars 1967)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7e1ef33a9c869f1fd934a9b4c2e0e0dd-5.mp3"
+                },
+                {
+                    "Id": 654980062,
+                    "Title": "Ne sois pas si stupide (Live à l'Olympia / samedi soir 18 mars 1967)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-36e125c91ef6806135ef8200235b707d-5.mp3"
+                },
+                {
+                    "Id": 654980072,
+                    "Title": "Hey Joe (Live à l'Olympia / dimanche en matinée 19 mars 1967)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-473ae5165edf75a39101f23b8dfd90f7-5.mp3"
+                },
+                {
+                    "Id": 654980082,
+                    "Title": "Jusqu'à minuit (Live à l'Olympia / samedi soir 18 mars 1967)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5e5a294b1c04743b5ed67e41689fa6bd-5.mp3"
+                },
+                {
+                    "Id": 654980092,
+                    "Title": "Confessions (Live à l'Olympia / samedi soir 18 mars 1967)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ecc9c568faa878cbe6ed26e0ea94976e-5.mp3"
+                },
+                {
+                    "Id": 654980102,
+                    "Title": "Je suis seul (Live à l'Olympia / samedi soir 18 mars 1967)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2b35faf88dc376e4aa20aecd3b3d5c07-5.mp3"
+                },
+                {
+                    "Id": 654980112,
+                    "Title": "Noir c'est noir (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-061d9013025b25bc90c7448868cf874f-5.mp3"
+                },
+                {
+                    "Id": 654980122,
+                    "Title": "Je crois qu'il me rend fou (Live à l'Olympia / dimanche après-midi 19 mars 1967)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-03830d969c4da3cf56402307a6d37d56-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 81457042,
+            "Title": "Le concert de sa vie",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/4fb96506c59003a5affcbc3071285f33/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 602452162,
+                    "Title": "Je suis né dans la rue (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c9b59c1a9540b1a7955211ae04e8384b-6.mp3"
+                },
+                {
+                    "Id": 602452172,
+                    "Title": "Fils de personne (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8957ae8929eee577b30739dc514e0a07-6.mp3"
+                },
+                {
+                    "Id": 602452182,
+                    "Title": "Rock'n'roll attitude (Live à Bercy / 1987)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-df15efde08b434b9630bd56885d0a12d-6.mp3"
+                },
+                {
+                    "Id": 602452192,
+                    "Title": "Mon p'tit loup ça va faire mal (Live au Zénith / 1984)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4cb3673794fa264725fd9a5c151aab31-6.mp3"
+                },
+                {
+                    "Id": 602452202,
+                    "Title": "La fille aux cheveux clairs (Live Stade de France / 1998 / 11 sept)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d71d9d4adc83749a99336da277c2ed5a-6.mp3"
+                },
+                {
+                    "Id": 602452212,
+                    "Title": "Si j'étais un charpentier (Live à l'Olympia / dimanche soir 19 mars 1967)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dc16bb84be93f724e6d219cf05f31f88-6.mp3"
+                },
+                {
+                    "Id": 602452222,
+                    "Title": "Excuse-moi partenaire",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b831debe203b35e50fe5495be39baecf-6.mp3"
+                },
+                {
+                    "Id": 602452232,
+                    "Title": "Elle est terrible (Live à l'Olympia / Soirée du 27 octobre 1962)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7333ce226c2f8fd9ede97881a006f48a-6.mp3"
+                },
+                {
+                    "Id": 602452242,
+                    "Title": "Johnny reviens (Live au Palais des sports / 1976)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e430b49841fd0b03f5bae945797af57a-7.mp3"
+                },
+                {
+                    "Id": 602452252,
+                    "Title": "La guitare fait mal (Live à Bercy / 1992)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef847ddb7324cd8cb2f40c3e7e41ed71-6.mp3"
+                },
+                {
+                    "Id": 602452262,
+                    "Title": "Le pénitencier (Live au Parc des Princes / 1993)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5e1016ed4230056721c5f39aa219307a-6.mp3"
+                },
+                {
+                    "Id": 602452272,
+                    "Title": "Hey Joe (Live au Zénith / 1984)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dd257ba6255b94efa381ff2389022fe1-7.mp3"
+                },
+                {
+                    "Id": 602452282,
+                    "Title": "Je veux te graver dans ma vie (Live à Bercy / 1992)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-786e95f3894242590b2823b96bf73fb9-6.mp3"
+                },
+                {
+                    "Id": 602452292,
+                    "Title": "Quelque chose de Tennessee (Live à Bercy / 1987)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f39d675278fe5bde53105d12079e05d2-6.mp3"
+                },
+                {
+                    "Id": 602452302,
+                    "Title": "Oh ! Ma jolie Sarah (Live au Parc des Princes / 1993)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-62a538b6b243cacdbe471d89ce2361c8-7.mp3"
+                },
+                {
+                    "Id": 602452312,
+                    "Title": "Ne me quitte pas (Live au Zénith / 1984)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c6548c750f9776f5a792aa7fead404d0-6.mp3"
+                },
+                {
+                    "Id": 602452322,
+                    "Title": "Medley (Live au Palais des sports / 1982)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-225d6a892d41631700a552987118ec52-6.mp3"
+                },
+                {
+                    "Id": 602452332,
+                    "Title": "Introduction symphonique (Live Stade de France / 1998/ 11 sept)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9ad5aadecd0809e9d1fc25e44f66997b-7.mp3"
+                },
+                {
+                    "Id": 602452342,
+                    "Title": "Que je t’aime (Live Stade de France / 1998/ 11 sept)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6d696a9a58e788b7fbf3438d581efab8-6.mp3"
+                },
+                {
+                    "Id": 602452352,
+                    "Title": "Diego, libre dans sa tête (Live Stade de France / 1998/ 11 sept)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e8d7b246d6d89939d640b08717268439-7.mp3"
+                },
+                {
+                    "Id": 602452362,
+                    "Title": "Je te promets (Live à l'Olympia / 2000)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5756e1e447936a45f706a54f66f76787-7.mp3"
+                },
+                {
+                    "Id": 602452372,
+                    "Title": "Deux étrangers (Live à Pantin / 1981)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dad02d43186cb8d8f2d7fc80ca10253f-6.mp3"
+                },
+                {
+                    "Id": 602452382,
+                    "Title": "Il faut boire à la source (Live au Palais des Sports, Paris / 1971)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-00760d7cb1b7b3493d7d5a1a1f6033d1-6.mp3"
+                },
+                {
+                    "Id": 602452392,
+                    "Title": "Joue pas de Rock'N'Roll pour moi (Live au Palais des sports / 1976)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b9c8618f545969a477a0d76779cc70b4-7.mp3"
+                },
+                {
+                    "Id": 602452402,
+                    "Title": "Le chanteur abandonné (Live à Bercy / 1990)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0a303ec08f7dcd2093c6355521c3334e-6.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 79087332,
+            "Title": "Stade de France 98 - XXème anniversaire",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/93b5af99e0c737a95bbf49ba0e654b42/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 588250132,
+                    "Title": "Intro (Live Stade de France / 1998/ 11 sept)",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-bc3ba742ec73a2957d8e875d4f119604-5.mp3"
+                },
+                {
+                    "Id": 588250142,
+                    "Title": "La musique que j'aime",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-69b9bb0c1650cb1b6e0b4a4dc1b83fb9-7.mp3"
+                },
+                {
+                    "Id": 588250152,
+                    "Title": "Rock’n’roll Man",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cfefb2587dd4ca9e9060052d53550820-6.mp3"
+                },
+                {
+                    "Id": 588250162,
+                    "Title": "Je veux te graver dans ma vie",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ea4b77e170963f91f0ff50af4e539d94-6.mp3"
+                },
+                {
+                    "Id": 588250172,
+                    "Title": "La fille aux cheveux clairs",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b322e8a29e488b6b6354e0eed0f8302b-7.mp3"
+                },
+                {
+                    "Id": 588250182,
+                    "Title": "Noir c’est noir",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7ff16af3648ed83d806900fad938229f-7.mp3"
+                },
+                {
+                    "Id": 588250192,
+                    "Title": "Les coups",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c8599754ef34268d908ee62ef4954a4c-6.mp3"
+                },
+                {
+                    "Id": 588250202,
+                    "Title": "Jusqu’à minuit",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-88c1a2df4976aed44cefb6f12b0fb00f-7.mp3"
+                },
+                {
+                    "Id": 588250212,
+                    "Title": "Je suis seul",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9f9e0f05cb0bd709b05a2cd103a15468-5.mp3"
+                },
+                {
+                    "Id": 588250222,
+                    "Title": "Derrière l’amour",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-987b7b1ca2ea9f3bff3cd68dc96a901d-6.mp3"
+                },
+                {
+                    "Id": 588250232,
+                    "Title": "Rock’n’roll attitude",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b6a844460611c8086b2c2fd742b43b24-7.mp3"
+                },
+                {
+                    "Id": 588250242,
+                    "Title": "Oh ! Ma jolie Sarah",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2433e6cf41f2e00dc79e543501be7964-6.mp3"
+                },
+                {
+                    "Id": 588250252,
+                    "Title": "Et puis je sais",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b351dca83fbb23b21b30f910437057a6-7.mp3"
+                },
+                {
+                    "Id": 588250262,
+                    "Title": "Medley unplugged",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2b3c19920abb99a77f8470c000b879ef-7.mp3"
+                },
+                {
+                    "Id": 588250272,
+                    "Title": "medley rock'n roll",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4a86b737ab4f2c851342b6145a7d8bb7-5.mp3"
+                },
+                {
+                    "Id": 588250282,
+                    "Title": "Joue pas de rock’n’roll pour moi",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-51cff0e60dae6674fa9ba78dd0a15fe6-6.mp3"
+                },
+                {
+                    "Id": 588250292,
+                    "Title": "Salut Charlie",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-62e831b09725f0fbc2d7f8c6170aedaf-7.mp3"
+                },
+                {
+                    "Id": 588250302,
+                    "Title": "Gabrielle",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1b24e0d0e6d4d80f6930ac15b49834f3-7.mp3"
+                },
+                {
+                    "Id": 588250312,
+                    "Title": "Peter Gunn Theme (instrumental)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fc260b87a3fc59a330d3bc26d9366de5-5.mp3"
+                },
+                {
+                    "Id": 588250322,
+                    "Title": "Je suis né dans la rue",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e5ddca5a208e836b35ecec4c05f2e135-6.mp3"
+                },
+                {
+                    "Id": 588250332,
+                    "Title": "Le pénitencier",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b5ccfe95065e9a03059e9935fdef1b73-7.mp3"
+                },
+                {
+                    "Id": 588250342,
+                    "Title": "La génération perdue",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-eb7e6cb25b427dd9ab5fda93ddea31c8-6.mp3"
+                },
+                {
+                    "Id": 588250352,
+                    "Title": "Le bon temps du rock’n’roll",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-77ca657603ee39cd5696e7eb32a4e659-6.mp3"
+                },
+                {
+                    "Id": 588250362,
+                    "Title": "Introduction symphonique",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c3d4f8f4876753e577d488e7a63c7fab-5.mp3"
+                },
+                {
+                    "Id": 588250372,
+                    "Title": "Que je t’aime",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-db37d7ea30124ea27f2007caea867f55-7.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 75926412,
+            "Title": "Mon pays c'est l'amour",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/9c571ab34f09da2eb8ebde0280b8b819/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 569837832,
+                    "Title": "J'en parlerai au diable",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-efeefb603d7dff8dabd1a1300cc2ada5-6.mp3"
+                },
+                {
+                    "Id": 569837842,
+                    "Title": "Mon pays, c'est l'amour",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c8748522496a8a789f1a19ac19df3b53-5.mp3"
+                },
+                {
+                    "Id": 569837852,
+                    "Title": "Made in Rock'n'Roll",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5055dd99d2a2dcf881bb9cd10c90334f-5.mp3"
+                },
+                {
+                    "Id": 569837862,
+                    "Title": "Pardonne-moi",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-affaa1b6da11884844ef1ac3eebe9578-6.mp3"
+                },
+                {
+                    "Id": 569837872,
+                    "Title": "Interlude",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ede9b154f6913d936f14221af91ed7cf-5.mp3"
+                },
+                {
+                    "Id": 569837902,
+                    "Title": "4m2",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8ea7c24d47a9aa53709df9794e0266cf-5.mp3"
+                },
+                {
+                    "Id": 569837942,
+                    "Title": "Back in LA",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-73470ddffa096f5570e32afb149cd7b9-6.mp3"
+                },
+                {
+                    "Id": 569837982,
+                    "Title": "L'Amérique de William",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-46c16dfac551e12ef648e0066fca25c1-5.mp3"
+                },
+                {
+                    "Id": 569838002,
+                    "Title": "Un enfant du siècle",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2cd8575666a6e87c248ea3f9aaefa68e-5.mp3"
+                },
+                {
+                    "Id": 569838032,
+                    "Title": "Tomber encore",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-672c1810e9f7c8a31fdf975d6ecfe17f-5.mp3"
+                },
+                {
+                    "Id": 569838062,
+                    "Title": "Je ne suis qu'un homme",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0561e569668cbfd104c0a52f8bc882a9-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 14283968,
+            "Title": "Derrière l'amour (Deluxe)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/e3f5a49363b697a9f956b285610db0e0/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 134024860,
+                    "Title": "Le jour J, l'heure H (Prise complète)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3d2abb6709a01ef91a6d7319b09a9bc4-4.mp3"
+                },
+                {
+                    "Id": 134024864,
+                    "Title": "Rendez-vous en enfer (Prise complète)",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-afed43c4f10b2dba7c1db0c2cf353958-4.mp3"
+                },
+                {
+                    "Id": 134024866,
+                    "Title": "Merci",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-ab96497956b671abf06349e3587d8b6a-3.mp3"
+                },
+                {
+                    "Id": 134024870,
+                    "Title": "Joue pas de rock'n'roll pour moi (Prise complète)",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-348bfe50ac13a6b859df9353ed7fcf78-4.mp3"
+                },
+                {
+                    "Id": 134024872,
+                    "Title": "Requiem pour un fou",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5d960d343d3e54f4669831052470e198-4.mp3"
+                },
+                {
+                    "Id": 134024876,
+                    "Title": "Gabrielle (Prise complète)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1cf1441defa06e2b8d3afc99dfc02128-4.mp3"
+                },
+                {
+                    "Id": 134024880,
+                    "Title": "Le ghetto (Prise complète)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-df235e404f06020d5de9dfc8b85cf357-4.mp3"
+                },
+                {
+                    "Id": 134024884,
+                    "Title": "L'étranger (Prise complète)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f788e99aa2ad5094693d89952ff4df2f-4.mp3"
+                },
+                {
+                    "Id": 134024886,
+                    "Title": "Derrière l'amour",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-441a6ab25d33ee2fb53a33cdf6da4f72-4.mp3"
+                },
+                {
+                    "Id": 134024888,
+                    "Title": "Les chiens de paille (Prise complète)",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c537a6ee9cf3ba7267dec80c8876e856-4.mp3"
+                },
+                {
+                    "Id": 134024890,
+                    "Title": "Né pour vivre sans amour",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-32a97599c0c565f9211de5d21b44ea12-5.mp3"
+                },
+                {
+                    "Id": 134024892,
+                    "Title": "Je suis nu, je suis mort (Prise complète)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-631249cb841fedbd1b351b0f7c04f78a-4.mp3"
+                },
+                {
+                    "Id": 134024894,
+                    "Title": "Requiem pour un fou (Alternate Version)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-26835e8c18e877eae30d887db27b5c24-4.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 74011132,
+            "Title": "Rester vivant Tour (Live 2016) (Deluxe Version)",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/58b62517b7ea5d8a18d9e0c9265d02c5/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 559265602,
+                    "Title": "Intro (Live au Palais 12 - Bruxelles - 2016; Live 2016)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-62f3a4e2617d35c006f2275abaf9cf8c-8.mp3"
+                },
+                {
+                    "Id": 559265612,
+                    "Title": "Rester vivant (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-6d8377269e7a776411a34caf5ea10e07-8.mp3"
+                },
+                {
+                    "Id": 559265622,
+                    "Title": "O Carole (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8509c5f36fce5224a80a063704303cd1-8.mp3"
+                },
+                {
+                    "Id": 559265632,
+                    "Title": "Noir c'est noir (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-68c35b115b382cb3e3780843327a2c84-8.mp3"
+                },
+                {
+                    "Id": 559265642,
+                    "Title": "Requiem pour un fou (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f899c95b616200f9f0fb8852a6b285a9-7.mp3"
+                },
+                {
+                    "Id": 559265652,
+                    "Title": "J'ai pleuré sur ma guitare (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7978a7f7cf191e1a43993aea54357ce7-8.mp3"
+                },
+                {
+                    "Id": 559265662,
+                    "Title": "Au café de l'avenir (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-80eec9d3adf7bc1f9b399caab2852dd7-9.mp3"
+                },
+                {
+                    "Id": 559265672,
+                    "Title": "Oh ma jolie Sarah (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-844affd8402ab84f6ae14d7b6fda20b9-9.mp3"
+                },
+                {
+                    "Id": 559265682,
+                    "Title": "Quelque chose de Tennessee (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ef45205706eae682c8789f5fc211232e-8.mp3"
+                },
+                {
+                    "Id": 559265692,
+                    "Title": "Gabrielle (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5899c37822676744a2bb351d640f304c-8.mp3"
+                },
+                {
+                    "Id": 559265702,
+                    "Title": "De l'amour (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-85883e63ebc820323530e16cd7d4cc53-9.mp3"
+                },
+                {
+                    "Id": 559265722,
+                    "Title": "La fille de l'été dernier (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d4a1ad0a74d2dd23c7694d7a766668e1-6.mp3"
+                },
+                {
+                    "Id": 559265762,
+                    "Title": "Mystery Train (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f3f735af46ff07ea0e8ed9aff656f4a8-10.mp3"
+                },
+                {
+                    "Id": 559265782,
+                    "Title": "Blue Suede Shoes (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2a830a98f0074cc23ce237adfdc34b39-6.mp3"
+                },
+                {
+                    "Id": 559265792,
+                    "Title": "Je te promets (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-13aba0f4b0c2508d92e3a2e07a6577b8-8.mp3"
+                },
+                {
+                    "Id": 559265802,
+                    "Title": "L'envie (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0238edeaa878feefe15f5581ef123a38-11.mp3"
+                },
+                {
+                    "Id": 559265812,
+                    "Title": "Fils de personne (feat. Yarol Poupaud) (Live au Palais 12 - Bruxelles - 2016)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-209154ef7383637dee6520e88d8c8543-8.mp3"
+                },
+                {
+                    "Id": 559265822,
+                    "Title": "Le pénitencier (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-4e0725b8e595c6b158ea1ebc1cd43059-7.mp3"
+                },
+                {
+                    "Id": 559265832,
+                    "Title": "Mon coeur qui bat (feat. Yodelice) (Live au Palais 12 - Bruxelles - 2016)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e571f9bc6828fd22af73ef5ec3ca472b-7.mp3"
+                },
+                {
+                    "Id": 559265842,
+                    "Title": "Ma gueule (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-54bd112db4672754f58e7561aa6a844e-7.mp3"
+                },
+                {
+                    "Id": 559265852,
+                    "Title": "L'Idole des jeunes (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f14db7ac2085088b34feb3d0966dddc0-6.mp3"
+                },
+                {
+                    "Id": 559265862,
+                    "Title": "Seul (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-70bd9778170400e7f8ba2f65eeeb6048-8.mp3"
+                },
+                {
+                    "Id": 559265872,
+                    "Title": "Nadine (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-91e13169d470ed7d7b22aa24a7533ac6-7.mp3"
+                },
+                {
+                    "Id": 559265882,
+                    "Title": "Que je t'aime (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-ecea29d73ddabec447870093c73acee3-7.mp3"
+                },
+                {
+                    "Id": 559265892,
+                    "Title": "Allumer le feu (Live au Palais 12, Bruxelles, 2016)",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-9b1c53fde9e1da73f50ef996bfe9b72e-8.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 11748140,
+            "Title": "Golf Drouot Special",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/1a8d2cd90f15cedcae4ceb7b52ea2d5b/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 113418994,
+                    "Title": "Maintenant ou jamais",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2c481641f7b99c00f12158004dcedcdd-5.mp3"
+                },
+                {
+                    "Id": 113418996,
+                    "Title": "Tu oublieras mon nom",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-896c4f0487d17b1f703bf7d3ecaf0db9-5.mp3"
+                },
+                {
+                    "Id": 113418998,
+                    "Title": "Mon anneau d’or",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-a85f56744d278ff21dc85700acb1eea7-5.mp3"
+                },
+                {
+                    "Id": 113419000,
+                    "Title": "Pour moi tu es la seule",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-53dd2f65f4806ff63bbbcec59dc4294e-5.mp3"
+                },
+                {
+                    "Id": 113419002,
+                    "Title": "Frankie et Johnny",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-733c91fb5d8123b32963df2780e6d2fe-5.mp3"
+                },
+                {
+                    "Id": 113419004,
+                    "Title": "Toi qui t’en vas",
+                    "Preview": "https://cdns-preview-9.dzcdn.net/stream/c-95232a3e2c372280ea94d972340f2b0e-5.mp3"
+                },
+                {
+                    "Id": 113419006,
+                    "Title": "Tu as de la chance",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-e7fb446cdf8175e45273dc0c0a014120-5.mp3"
+                },
+                {
+                    "Id": 113419008,
+                    "Title": "Quand revient la nuit",
+                    "Preview": "https://cdns-preview-b.dzcdn.net/stream/c-b1e5a9ad896757f3cefa97cf8ae0f48d-5.mp3"
+                },
+                {
+                    "Id": 113419010,
+                    "Title": "Reviens donc chez nous",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-1e2a472395febc896959cbdbf5aa8c3b-5.mp3"
+                },
+                {
+                    "Id": 113419012,
+                    "Title": "Les mauvais garçons",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2db6970021f35f62c6af096fcf2922e9-5.mp3"
+                },
+                {
+                    "Id": 113419014,
+                    "Title": "On a ses jours",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-d97229f08ae1cdf52cf08760ac3e3149-5.mp3"
+                },
+                {
+                    "Id": 113419016,
+                    "Title": "Je l'aime",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c2648c8273306d84768309a8e6eaf64b-5.mp3"
+                },
+                {
+                    "Id": 113419018,
+                    "Title": "Ne joue pas ce jeu-là",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c63be75c28ceb7f641dae0e8ebcc6a1d-5.mp3"
+                },
+                {
+                    "Id": 113419020,
+                    "Title": "Le pénitencier",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2d744eef6f2c92dbc907a271da5a5097-5.mp3"
+                },
+                {
+                    "Id": 113419022,
+                    "Title": "Les monts près du ciel",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-70be3e3086b5fa5e726c4eb444dbe6b9-5.mp3"
+                },
+                {
+                    "Id": 113419024,
+                    "Title": "Va-t'en",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-738c5080da103e0ef3d0e6bda1f348a5-5.mp3"
+                },
+                {
+                    "Id": 113419026,
+                    "Title": "Le diable me pardonne",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8f1ec9ac410f9d05970bbc34700ccc7f-5.mp3"
+                },
+                {
+                    "Id": 113419028,
+                    "Title": "Rock'n'roll musique",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fd17169af9105c65eed4d3955a58e662-5.mp3"
+                },
+                {
+                    "Id": 113419030,
+                    "Title": "Plus je te regarde",
+                    "Preview": "https://cdns-preview-a.dzcdn.net/stream/c-aa2d7b41943c0951b63253309c7acc6f-5.mp3"
+                },
+                {
+                    "Id": 113419032,
+                    "Title": "Jusqu'à minuit",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-14de15c4eafaa6134239cf015cb5924c-5.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 75180962,
+            "Title": "De l' Amour",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/cd3238d25284d76e66f81932bbc2b25c/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 565673462,
+                    "Title": "De l'amour",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-06d63f7f0ee784f878f21b6e2ce56e4f-7.mp3"
+                },
+                {
+                    "Id": 565673472,
+                    "Title": "Une vie à l'envers",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-32d8eb3cabfe23765b3509c26d4bf18f-8.mp3"
+                },
+                {
+                    "Id": 565673482,
+                    "Title": "Dans la peau de Mike Brown",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-719212b2cbdab43ba67d3e7e43e98e73-9.mp3"
+                },
+                {
+                    "Id": 565673492,
+                    "Title": "Tu es là",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3ef03eb78967095c56d5d3cf91f89f59-8.mp3"
+                },
+                {
+                    "Id": 565673502,
+                    "Title": "Valise ou cercueil",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-23bdcdd91efc80a9d436c460d55c6c18-7.mp3"
+                },
+                {
+                    "Id": 565673512,
+                    "Title": "L'amour me fusille",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0801f0795cbb9ab33fbd94109ad0caca-8.mp3"
+                },
+                {
+                    "Id": 565673522,
+                    "Title": "Mon coeur qui bat",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cb5537fd0863f27597ff408b663d6789-7.mp3"
+                },
+                {
+                    "Id": 565673532,
+                    "Title": "Avant de frapper",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-413331101dc6bb366bd7958cd11dddc8-8.mp3"
+                },
+                {
+                    "Id": 565673542,
+                    "Title": "Des raisons d'espérer",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-697ece0626a44207e0aebd58ba58e4a5-7.mp3"
+                },
+                {
+                    "Id": 565673552,
+                    "Title": "Un dimanche de janvier",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-410ee8e8e94f286c9fc96531d5e79405-8.mp3"
+                },
+                {
+                    "Id": 565673562,
+                    "Title": "Voyageur clandestin",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fc822f65ba5b3c635668dc9d56c34ee2-6.mp3"
+                },
+                {
+                    "Id": 565673572,
+                    "Title": "Rester vivant (Deezer Session)",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7f00ae1c61292fcac9a99c72fb7d4a24-8.mp3"
+                },
+                {
+                    "Id": 565673582,
+                    "Title": "Te manquer (Deezer Session)",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-233dccef41a32fec983134af2b7ac73a-8.mp3"
+                },
+                {
+                    "Id": 565673592,
+                    "Title": "Je veux te graver dans ma vie (Deezer Session)",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-022dedcf2c0b1f62e246cfabf0a2bf69-8.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 73848442,
+            "Title": "L'album de sa vie 50 titres",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/4c00f1310841cc9bca9d6499c26f77bc/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 558519762,
+                    "Title": "Viens danser le twist",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-eb6a5b48a73d7c78cb32d6e39f55551e-6.mp3"
+                },
+                {
+                    "Id": 558519772,
+                    "Title": "Retiens la nuit (BOF \"Les Parisiennes\")",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0a3485606d9a89db5c9d7b0ffa9ef903-8.mp3"
+                },
+                {
+                    "Id": 558519782,
+                    "Title": "L'idole des jeunes",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5c92275c629439b4dd32ad32bcc42fbd-6.mp3"
+                },
+                {
+                    "Id": 558519792,
+                    "Title": "Tes tendres années",
+                    "Preview": "https://cdns-preview-d.dzcdn.net/stream/c-dc67de795a24e492dcd28661de178c7e-6.mp3"
+                },
+                {
+                    "Id": 558519802,
+                    "Title": "Elle est terrible",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f21a23db38a9537199b5100c384d4fb6-7.mp3"
+                },
+                {
+                    "Id": 558519812,
+                    "Title": "Pour moi la vie va commencer (BOF “D’où viens-tu Johnny ?\")",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2857c285acb9c0532d4ab8902cb42151-6.mp3"
+                },
+                {
+                    "Id": 558519822,
+                    "Title": "Excuse moi partenaire",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-c9992cc3011b585ac2f6b6d8702157be-6.mp3"
+                },
+                {
+                    "Id": 558519832,
+                    "Title": "Le pénitencier",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-f6b4fa4ecff3f034cb57fb72b4ccbc2a-6.mp3"
+                },
+                {
+                    "Id": 558519842,
+                    "Title": "Quand revient la nuit",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0dc5046070cebe6f6326c0ad920363c3-6.mp3"
+                },
+                {
+                    "Id": 558519852,
+                    "Title": "Les coups",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-8870e4778b3c050a3d47347d93418ddd-6.mp3"
+                },
+                {
+                    "Id": 558519862,
+                    "Title": "Noir c'est noir",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-416f0b7885fda0275fe40109c5edcaa2-6.mp3"
+                },
+                {
+                    "Id": 558519872,
+                    "Title": "La fille à qui je pense",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2fe540cef175550de6bc4d53370c4c7b-6.mp3"
+                },
+                {
+                    "Id": 558519882,
+                    "Title": "Je veux te graver dans ma vie",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-68e40c24d10b4a273585e43e30299184-6.mp3"
+                },
+                {
+                    "Id": 558519892,
+                    "Title": "Hey Joe",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-03d71230661b0119039914cf4e4410e3-6.mp3"
+                },
+                {
+                    "Id": 558519902,
+                    "Title": "Aussi dur que du bois",
+                    "Preview": "https://cdns-preview-e.dzcdn.net/stream/c-efdd92df65cbc50fb1db37bc6b89e112-6.mp3"
+                },
+                {
+                    "Id": 558519912,
+                    "Title": "Que je t'aime",
+                    "Preview": "https://cdns-preview-5.dzcdn.net/stream/c-5fe0de8b240fc7fb02d46e4ae23d2ef0-7.mp3"
+                },
+                {
+                    "Id": 558519922,
+                    "Title": "La fille aux cheveux clairs",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fe688b13ccaade1e32b938cf0094663d-6.mp3"
+                },
+                {
+                    "Id": 558519932,
+                    "Title": "Fils de personne",
+                    "Preview": "https://cdns-preview-1.dzcdn.net/stream/c-14f649640edd21d92490936a0c7c5994-6.mp3"
+                },
+                {
+                    "Id": 558519942,
+                    "Title": "Oh ma jolie Sarah",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-699fd181cb5015499a2611ecb4453095-6.mp3"
+                },
+                {
+                    "Id": 558519952,
+                    "Title": "La musique que j'aime",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-2416224111c57a05de5d94d8372e575b-7.mp3"
+                },
+                {
+                    "Id": 558519962,
+                    "Title": "J'ai un problème",
+                    "Preview": "https://cdns-preview-8.dzcdn.net/stream/c-80953aef2c246e195ec1d45d6e5fe357-6.mp3"
+                },
+                {
+                    "Id": 558519972,
+                    "Title": "J'ai pleuré sur ma guitare",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-36d6bce38677ba8027d8bb536b0c4180-6.mp3"
+                },
+                {
+                    "Id": 558519982,
+                    "Title": "Hey Lovely Lady",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-7334d63fc4f89f8b4c817c82bd8c29e4-6.mp3"
+                },
+                {
+                    "Id": 558519992,
+                    "Title": "Requiem pour un fou",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-48ea767ad900a4d67cba0a22a2826bf4-6.mp3"
+                },
+                {
+                    "Id": 558520002,
+                    "Title": "Derrière l'amour",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3f2f36178a7802c57bb4103955193187-6.mp3"
+                }
+            ]
+        },
+        {
+            "Id": 74004882,
+            "Title": "De l' Amour",
+            "CoverBig": "https://cdns-images.dzcdn.net/images/cover/cd3238d25284d76e66f81932bbc2b25c/500x500-000000-80-0-0.jpg",
+            "Tracks": [
+                {
+                    "Id": 559232152,
+                    "Title": "De l'amour",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-06d63f7f0ee784f878f21b6e2ce56e4f-7.mp3"
+                },
+                {
+                    "Id": 559232162,
+                    "Title": "Une vie à l'envers",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-32d8eb3cabfe23765b3509c26d4bf18f-8.mp3"
+                },
+                {
+                    "Id": 559232172,
+                    "Title": "Dans la peau de Mike Brown",
+                    "Preview": "https://cdns-preview-7.dzcdn.net/stream/c-719212b2cbdab43ba67d3e7e43e98e73-9.mp3"
+                },
+                {
+                    "Id": 559232182,
+                    "Title": "Tu es là",
+                    "Preview": "https://cdns-preview-3.dzcdn.net/stream/c-3ef03eb78967095c56d5d3cf91f89f59-8.mp3"
+                },
+                {
+                    "Id": 559232192,
+                    "Title": "Valise ou cercueil",
+                    "Preview": "https://cdns-preview-2.dzcdn.net/stream/c-23bdcdd91efc80a9d436c460d55c6c18-7.mp3"
+                },
+                {
+                    "Id": 559232202,
+                    "Title": "L'amour me fusille",
+                    "Preview": "https://cdns-preview-0.dzcdn.net/stream/c-0801f0795cbb9ab33fbd94109ad0caca-8.mp3"
+                },
+                {
+                    "Id": 559232212,
+                    "Title": "Mon coeur qui bat",
+                    "Preview": "https://cdns-preview-c.dzcdn.net/stream/c-cb5537fd0863f27597ff408b663d6789-7.mp3"
+                },
+                {
+                    "Id": 559232222,
+                    "Title": "Avant de frapper",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-413331101dc6bb366bd7958cd11dddc8-8.mp3"
+                },
+                {
+                    "Id": 559232232,
+                    "Title": "Des raisons d'espérer",
+                    "Preview": "https://cdns-preview-6.dzcdn.net/stream/c-697ece0626a44207e0aebd58ba58e4a5-7.mp3"
+                },
+                {
+                    "Id": 559232242,
+                    "Title": "Un dimanche de janvier",
+                    "Preview": "https://cdns-preview-4.dzcdn.net/stream/c-410ee8e8e94f286c9fc96531d5e79405-8.mp3"
+                },
+                {
+                    "Id": 559232252,
+                    "Title": "Voyageur clandestin",
+                    "Preview": "https://cdns-preview-f.dzcdn.net/stream/c-fc822f65ba5b3c635668dc9d56c34ee2-6.mp3"
+                }
+            ]
+        }
+    ]
+}
